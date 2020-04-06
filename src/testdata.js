@@ -1,0 +1,32 @@
+const testdata = [
+    { id: "1",
+      litrat: 38.59,
+      summa: 55.96,
+      litrahinta: 1.45,
+      ajetutkm: 250500,
+      ostopaiva: '2020-04-02',
+      tyyppi: '98 E5'},
+    { id:"2",
+      litrat: 48.06,
+      summa: 66.32,
+      litrahinta: 1.38,
+      ajetutkm: 249800,
+      ostopaiva: '2020-03-21',
+      tyyppi: '95 E10'},
+    { id:"3",
+      litrat: 18.37,
+      summa: 20.76,
+      litrahinta: 1.13,
+      ajetutkm: 249150,
+      ostopaiva: '2020-03-11',
+      tyyppi: 'Diesel'},
+    { id:"4",
+      litrat: 39.50,
+      summa: 70.70,
+      litrahinta: 1.79,
+      ajetutkm: 248600,
+      ostopaiva: '2020-03-01',
+      tyyppi: 'V-Power'}
+];
+
+export default testdata;
