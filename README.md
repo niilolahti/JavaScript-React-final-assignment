@@ -1,3 +1,5 @@
+Bookkeeping software for taking fuel. Under development but has already some functionality to it. Based significantly on the bookkeeping software made by my teacher Pekka Aalto.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
